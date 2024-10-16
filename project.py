@@ -1,1 +1,1 @@
-print("DIET")
+print("DIET1")
